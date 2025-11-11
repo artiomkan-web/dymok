@@ -4,23 +4,23 @@
 <head>
 	<meta charSet="utf-8" data-next-head="" />
 	<meta name="viewport" content="width=device-width" data-next-head="" />
-	<link rel="preload" href="./_next/static/css/9eb192a076a45b50.css" as="style" />
-	<link rel="preload" href="./_next/static/css/7da1eb3109150412.css" as="style" />
-	<link rel="stylesheet" href="./_next/static/css/9eb192a076a45b50.css" data-n-g="" />
-	<link rel="stylesheet" href="./_next/static/css/7da1eb3109150412.css" data-n-p="" />
+	<link rel="preload" href="_next/static/css/9eb192a076a45b50.css" as="style" />
+	<link rel="preload" href="_next/static/css/7da1eb3109150412.css" as="style" />
+	<link rel="stylesheet" href="_next/static/css/9eb192a076a45b50.css" data-n-g="" />
+	<link rel="stylesheet" href="_next/static/css/7da1eb3109150412.css" data-n-p="" />
 	<noscript data-n-css=""></noscript>
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-	<script defer="" noModule="" src="./_next/static/chunks/polyfills-42372ed130431b0a.js"></script>
-	<script src="./_next/static/chunks/webpack-057da668910d4143.js" defer=""></script>
-	<script src="./_next/static/chunks/framework-3e5e67fa410f00de.js" defer=""></script>
-	<script src="./_next/static/chunks/main-2e576d4664ef9c2c.js" defer=""></script>
-	<script src="./_next/static/chunks/pages/_app-d65cc3b5fcc90241.js" defer=""></script>
-	<script src="./_next/static/chunks/576-fcd01cb3a5eb6f92.js" defer=""></script>
-	<script src="./_next/static/chunks/pages/index-081bde58c01b4ab3.js" defer=""></script>
-	<script src="./_next/static/kq8TPjwaoXR4uI180AM7M/_buildManifest.js" defer=""></script>
-	<script src="./_next/static/kq8TPjwaoXR4uI180AM7M/_ssgManifest.js" defer=""></script>
+	<script defer="" noModule="" src="_next/static/chunks/polyfills-42372ed130431b0a.js"></script>
+	<script src="_next/static/chunks/webpack-057da668910d4143.js" defer=""></script>
+	<script src="_next/static/chunks/framework-3e5e67fa410f00de.js" defer=""></script>
+	<script src="_next/static/chunks/main-2e576d4664ef9c2c.js" defer=""></script>
+	<script src="_next/static/chunks/pages/_app-d65cc3b5fcc90241.js" defer=""></script>
+	<script src="_next/static/chunks/576-fcd01cb3a5eb6f92.js" defer=""></script>
+	<script src="_next/static/chunks/pages/index-081bde58c01b4ab3.js" defer=""></script>
+	<script src="_next/static/kq8TPjwaoXR4uI180AM7M/_buildManifest.js" defer=""></script>
+	<script src="_next/static/kq8TPjwaoXR4uI180AM7M/_ssgManifest.js" defer=""></script>
 </head>
 
 <body>
