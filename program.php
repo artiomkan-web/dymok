@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charSet="utf-8" data-next-head="" />
+	<meta name="viewport" content="width=device-width" data-next-head="" />
+	<link rel="preload" href="./_next/static/css/9eb192a076a45b50.css" as="style" />
+	<link rel="preload" href="./_next/static/css/e0d6427075ab9827.css" as="style" />
+	<link rel="stylesheet" href="./_next/static/css/9eb192a076a45b50.css" data-n-g="" />
+	<link rel="stylesheet" href="./_next/static/css/e0d6427075ab9827.css" data-n-p="" />
+	<noscript data-n-css=""></noscript>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<script defer="" noModule="" src="./_next/static/chunks/polyfills-42372ed130431b0a.js"></script>
+	<script src="./_next/static/chunks/webpack-057da668910d4143.js" defer=""></script>
+	<script src="./_next/static/chunks/framework-3e5e67fa410f00de.js" defer=""></script>
+	<script src="./_next/static/chunks/main-2e576d4664ef9c2c.js" defer=""></script>
+	<script src="./_next/static/chunks/pages/_app-d65cc3b5fcc90241.js" defer=""></script>
+	<script src="./_next/static/chunks/576-fcd01cb3a5eb6f92.js" defer=""></script>
+	<script src="./_next/static/chunks/pages/program-082e5e26e2118543.js" defer=""></script>
+	<script src="./_next/static/kq8TPjwaoXR4uI180AM7M/_buildManifest.js" defer=""></script>
+	<script src="./_next/static/kq8TPjwaoXR4uI180AM7M/_ssgManifest.js" defer=""></script>
+</head>
+
+<body>
+	<link rel="preload" as="image" href="./images/logo.png" />
+	<link rel="preload" as="image" href="./images/dragon/hello.png" />
+	<div id="__next">
+		<header class="Header_header__5ZApI">
+			<div class="Header_headerContainer__4fCFu container">
+				<div class="Header_logo__ULYlI"><img src="./images/logo.png" alt="" /></div>
+				<nav class="Header_menu__F0oZj">
+					<ul class="Header_menuList__gr7bb" data-depth="0">
+						<li><a class="Header_menuItem__qfkrG" data-depth="0" href="/index">Главная</a></li>
+						<li><a class="Header_menuItem__qfkrG" data-depth="0" href="/">Новости</a></li>
+						<li><a class="Header_menuItem__qfkrG" data-depth="0" href="/program">Программа</a></li>
+						<li><a class="Header_menuItem__qfkrG" data-depth="0" href="/">Авторы</a></li>
+						<li><a class="Header_menuItem__qfkrG" data-depth="0" href="/">Контакты</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		<section>
+			<div class="container">
+				<header class="style_header__OZPfK">
+					<h2>Занятие 1. «Привет, Дымок! Знакомство с миром эмоций»</h2>
+					<div class="style_progress__8oXm1">Слайд
+						<!-- -->1
+						<!-- -->/
+						<!-- -->7</div>
+				</header>
+				<main class="style_content__L69PO">
+					<div class="style_slide__h1hAk">
+						<div>
+							<div class="style_hero__naASB" style="display:inline;width:25%;float:left"><img src="./images/dragon/hello.png" alt="Дымок машет" class="style_dymokImg__obpJF" style="width:100%" /></div>
+							<p class="style_lead__18rum">Вступление: Привет-привет! О-о-ой, как же я рад тебя видеть! Меня зовут Дымок, я маленький огненный дракончик. Но не пугайся, мой огонь совсем не горячий, а волшебный, он помогает согревать сердца и дружить с эмоциями! А ты хочешь подружиться с эмоциями? Тогда ты зашёл точно по адресу!</p>
+							<p>Знаешь, а я тут подумал... Мы с тобой сейчас как настоящие исследователи, которые отправляются в увлекательную экспедицию. Только изучать мы будем не джунгли и не звёзды, а целый мир, который живёт внутри каждого из нас! Это мир наших чувств и эмоций.</p>
+							<h4>А что же такое эмоции?</h4>
+							<p>Представь, что внутри у тебя есть специальный прибор, как барометр у метеорологов, который показывает «погоду в душе». Вот этот прибор и есть наши эмоции!</p>
+							<ul>
+								<li>Когда тебе весело и хочется смеяться — в твоём внутреннем мире светит солнышко.</li>
+								<li>Когда ты немножко грустишь — набегают лёгкие облачка.</li>
+								<li>Когда ты злишься — может начаться настоящая гроза.</li>
+								<li>А если ты испугался — будто подул холодный ветерок.</li>
+							</ul>
+							<p>Эмоции — это наши внутренние сигналы. Они говорят нам, что происходит вокруг и как мы к этому относимся. И все они, даже самые грозные и неприятные, очень-очень важны! Без них мы были бы как роботы. Правда, скучно?</p>
+						</div>
+					</div>
+				</main>
+				<footer class="style_controls__Lu_9K">
+					<button class="style_button__ICVFN" aria-label="Назад">Назад</button>
+					<button class="style_button__ICVFN" aria-label="Далее">Далее</button>
+				</footer>
+			</div>
+		</section>
+	</div>
+	<script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/program","query":{},"buildId":"kq8TPjwaoXR4uI180AM7M","nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[]}</script>
+</body>
+
+</html>
