@@ -661,7 +661,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "_next/";
+/******/ 		__webpack_require__.p = "files/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/react refresh */
